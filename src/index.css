@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logoVT {
+	font-family: "Permanent Marker", cursive;
+}
