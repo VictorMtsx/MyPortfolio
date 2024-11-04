@@ -25,7 +25,11 @@ export function NavBar() {
 						</a>
 					</li>
 					<li className=" text-white text-2xl">
-						<a href="https://github.com/VictorMtsx" target="_blank">
+						<a
+							href="https://github.com/VictorMtsx"
+							target="_blank"
+							rel="noreferrer"
+						>
 							<RxGithubLogo />
 						</a>
 					</li>

@@ -62,7 +62,7 @@ export function Me() {
 					variants={VictorDescription(1.2, 1)}
 					initial="initial"
 					animate="animate"
-					className="w-screen block px-2 text-center text-justify  text-zinc-200
+					className="w-screen block px-2  text-justify  text-zinc-200
 				max-w-[600px]"
 				>
 					Olá, muito prazer! Sou João Victor.
