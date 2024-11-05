@@ -42,7 +42,7 @@ export function Me() {
 					variants={VictorProfile(1)}
 					initial="initial"
 					animate="animate"
-					src="../../src/assets/me.png"
+					src="../../public/me.png"
 					alt="VictorPicture"
 					className="w-2/3 h-auto
 					max-w-[400px]"
