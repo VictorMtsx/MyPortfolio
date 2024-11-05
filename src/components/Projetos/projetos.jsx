@@ -23,7 +23,7 @@ export function Projetos() {
 						</span>
 						<div className="flex flex-row gap-5">
 							<img
-								src="../../public/hotel-projeto.svg"
+								src="./hotel-projeto.svg"
 								alt="imagem de uma projeto realizado"
 								className="w-auto h-28 border-2 rounded-md   border-zinc-600"
 							/>
@@ -64,7 +64,7 @@ export function Projetos() {
 						</span>
 						<div className="flex flex-row gap-5">
 							<img
-								src="../../public/in-orbit-projeto.svg"
+								src="./in-orbit-projeto.svg"
 								alt="imagem de uma projeto realizado"
 								className="w-auto h-28 border-2 rounded-md   border-zinc-600"
 							/>
@@ -94,7 +94,7 @@ export function Projetos() {
 											className="text-4xl p-1 text-red-500 border-2 border-zinc-600 rounded-md"
 										/>
 										<img
-											src="../../public/drizzle-orm.png"
+											src="./drizzle-orm.png"
 											alt="drizzle-orm"
 											title="drizzle-orm"
 											className="h-9 w-auto border-2 border-zinc-600 rounded-md"
