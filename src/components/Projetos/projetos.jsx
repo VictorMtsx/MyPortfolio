@@ -23,7 +23,7 @@ export function Projetos() {
 						</span>
 						<div className="flex flex-row gap-5">
 							<img
-								src="../../public/Hotel-projeto.svg"
+								src="../../public/hotel-projeto.svg"
 								alt="imagem de uma projeto realizado"
 								className="w-auto h-28 border-2 rounded-md   border-zinc-600"
 							/>
