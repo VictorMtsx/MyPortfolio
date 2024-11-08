@@ -1,4 +1,4 @@
 # Portifólio João Victor
 
 ## Desenvolvedor front-end
-<a href="victormtsx.vercel.app">VictorMtsx</a>
+<a href="https://victormtsx.vercel.app" target="_blank">VictorMtsx</a>
