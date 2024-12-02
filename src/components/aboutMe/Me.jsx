@@ -1,4 +1,4 @@
-import { animate, motion } from "framer-motion";
+import { motion } from "framer-motion";
 
 const VictorProfile = (duration) => ({
 	initial: { opacity: 0, scale: 0 },
@@ -62,21 +62,29 @@ export function Me() {
 					variants={VictorDescription(1.2, 1)}
 					initial="initial"
 					animate="animate"
-					className="w-11/12 sm:w-screen block px-2  text-justify  text-zinc-200
+					className="w-11/12  sm:w-screen block px-2  text-justify  text-zinc-200
 				max-w-[600px]"
 				>
 					Olá, muito prazer! Sou João Victor.
 					<br />
-					Atualmente sou estudante de análise e desenvolvimento de sistemas
-					através da faculdade Uniaselvi e me encontro, nesse momento, no
-					segundo semestre do meu curso. Porém, mesmo com apenas 18 anos,
-					iniciei meus estudos na área com apenas 16 anos. Naquela época, eu não
-					possuia um notebook então o inicio da minha jornada não foi muito
-					facil. Entretando assim como várias pessoas, dei prosseguimento mesmo
-					dentre essa dificuldade. Com 17 anos foi quando eu comecei a estudar
-					HTML, CSS, JavaScript, pois tinha acabado de montar meu primeiro PC,
-					desde entao eu comecei a programar. Atualmente, estou estudando
-					ReactJS e NodeJS, assim como conhecendo também o Docker.
+					Desenvolvedor Front-end com paixão por criar experiências digitais
+					intuitivas e envolventes. Possuo sólida experiência em JavaScript,
+					React e Tailwind CSS, construindo interfaces modernas e responsivas.
+					Embora minha especialidade seja Front-end, possuo um forte interesse
+					em desenvolvimento full-stack, buscando sempre construir soluções
+					completas e escaláveis. Atualmente, estou aprofundando meus
+					conhecimentos em DevOps para otimizar meus processos de
+					desenvolvimento e garantir a qualidade dos meus projetos. Meu inglês
+					está em constante desenvolvimento, e estou sempre buscando
+					oportunidades para praticar e melhorar minhas habilidades de
+					comunicação técnica. Com 18 anos e experiência em desenvolvimento
+					desde os 16, sou proativo e busco constantemente desafios. Um dos meus
+					projetos em andamento é um sistema de reservas de hotéis, onde estou
+					aplicando minhas habilidades em React e Tailwind CSS para criar uma
+					interface intuitiva e moderna. Paralelamente, estou trabalhando no
+					desenvolvimento do backend e na implantação da infraestrutura,
+					utilizando conceitos de DevOps para garantir a escalabilidade e a
+					confiabilidade da aplicação.
 				</motion.p>
 			</div>
 		</div>

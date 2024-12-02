@@ -20,7 +20,7 @@ const iconVariants = (duration, Delay) => ({
 export function Tecnologies() {
 	return (
 		<div className=" pt-5 pb-10  border-b border-neutral-800">
-			<h1 className="pb-14 text-center text-4xl font-semibold bg-gradient-to-r from-zinc-900 via-white to-zinc-900 bg-clip-text text-transparent">
+			<h1 className="pb-14 text-center text-4xl font-semibold text-zinc-300">
 				Tecnologias
 			</h1>
 			<div className="flex flex-wrap justify-center items-center gap-6 ">
